@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Fantasy Vacations",
+  "description": "Boutique personalized travel advisor and luxury vacation planning experience for Caribbean escapes, cruises, all-inclusive getaways, and romantic travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
